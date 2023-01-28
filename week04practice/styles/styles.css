@@ -1,0 +1,43 @@
+* {
+    background-color: rgb(255, 183, 238);
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+#p1 {
+    color: white;
+    font: bold;
+    font-size: small;
+}
+h1, h3 , p{
+    color: white;
+    font: bold;
+}
+h1, h3 {
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    margin: 10px auto;
+}
+h1:hover {
+    color: black;
+}
+body {
+    width: 40%;
+}
+li {
+    font: bold;
+    text-align: left;
+    list-style: decimal;
+}
+img {
+    width: 50%;
+}
+body p {
+    margin: 10px auto;
+    font-size:xx-large;
+}
+footer p {
+    font-size: small;
+    color: black;
+}
