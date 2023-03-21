@@ -190,7 +190,6 @@ footer .social {
 /* Scheduling page */
 .banner {
     width: 80%;
-    max-width: 1000px;
     text-align: center;
     display: grid;
     grid-template-rows: auto;
@@ -212,7 +211,6 @@ footer .social {
 }
 .info {
     margin: 0 auto;
-    max-width: 1000px;
     width: 80%;
     padding-top: 1%;
     padding-bottom: 1%;
@@ -226,7 +224,6 @@ footer .social {
 }
 .schedules {
     margin: 0 auto;
-    max-width: 1000px;
     width: 80%;
     display: grid;
     grid-template-columns: 1fr 1fr;
